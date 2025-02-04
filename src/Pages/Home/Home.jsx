@@ -51,7 +51,7 @@ export default function Home() {
       <Family/>
       <Faq/>
       <Download/>
-      <Footer/>
+{/*       <Footer/> */}
     </Box>
   );
 }
