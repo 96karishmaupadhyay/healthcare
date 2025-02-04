@@ -50,7 +50,7 @@ export default function Home() {
       <Blog/>
       <Family/>
       <Faq/>
-      <Download/>
+{/*       <Download/> */}
 {/*       <Footer/> */}
     </Box>
   );
